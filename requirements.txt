@@ -1,0 +1,6 @@
+bs4
+tqdm
+jinja2
+fastapi
+requests
+"uvicorn[standard]"
